@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**ModestGoblin/ModestGoblin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on expanding implentation of HomeKit Accessories & finishing up painting my Gobapluza Warhammer set.
+- 🌱 I’m currently learning HomeKit Accessory Protocol (HAP) & Photography(so I can take nice shots of my minitures).
+- 👯 I’m looking to collaborate on Apple related projects.
+- 🤔 I’m looking for help with positive disscusion!
+- 💬 Ask me about Anything!
+- 📫 How to reach me: https://github.com/ModestGoblin/Citadel/discussions or on TWTR: [@modestgoblin](https://twitter.com/modestgoblin)
+- 😄 Pronouns: Human
+- ⚡ unFun fact: I work the nights full-time😞; could use the sponsorships 🤝
+
+
+ ✨ 
