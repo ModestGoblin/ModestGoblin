@@ -10,7 +10,7 @@
 - 💬 Ask me about Anything!
 - 📫 How to reach me: https://github.com/ModestGoblin/Citadel/discussions or on TWTR: [@modestgoblin](https://twitter.com/modestgoblin)
 - 😄 Pronouns: He/Him
-- ⚡ unFun fact: I work the nights full-time😞; could use the sponsorships 🤝
+- ⚡ Fun fact: 🍅🥒🌶🍊🥭🍌 it's ```TRUE;``` could use the sponsorships 🤝
 
 
  ✨ 
