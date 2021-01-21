@@ -1,4 +1,4 @@
-### Hi there 👋
+### Aloha 👋
 
 
 - 🔭 I’m currently working on expanding implentation of HomeKit Accessories & finishing up painting my Gobbapalooza Warhammer set(Lots of colours, very fun, learning new techniques🎨).
