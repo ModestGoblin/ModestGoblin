@@ -1,6 +1,6 @@
 ### Aloha 👋
 
-🔭 I’m currently working on expanding implentation of the Apple HomeKit framework. Also painting the [Gobbapalooza](https://www.games-workshop.com/en-CA/Gloomspite-Gitz-Gobbapalooza-2019) Warhammer set(Lots of colours, very fun, learning new techniques🎨).
+🔭 I’m currently working on expanding implentation of the Apple HomeKit framework. Also I am 🖌painting🎨 the [Gobbapalooza](https://www.games-workshop.com/en-CA/Gloomspite-Gitz-Gobbapalooza-2019) Warhammer set(Lots of colours, very enjoyable, learning new techniques and methods).
 
 <table>
   <body>
@@ -8,17 +8,7 @@
       <td width="50%" height="100" align="center">
         <a href="https://github.com/sponsors/ModestGoblin">Become a sponsor 🤝</a> 
       </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/ModestGoblin/Citadel/discussions">Join the Discussion</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" height="100" align="center">
-        <a href="https://twitter.com/modestgoblin">Twitter</a>
-      </td>
-      <td width="50%" align="center">
-        <a href="">TBA</a>
-      </td>  
+    </tr>  
   </body>
  </table>
   
