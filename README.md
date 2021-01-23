@@ -1,14 +1,29 @@
 ### Aloha 👋
 
-
-- 🔭 I’m currently working on expanding implentation of HomeKit Accessories & finishing up painting my Gobbapalooza Warhammer set(Lots of colours, very fun, learning new techniques🎨).
-- 🌱 I’m currently learning the HomeKit Accessory Protocol (HAP), HomeKit Accessory Simulator (HAS) & little Photography(so I can take nice shots of my minitures).
-- 👯 I’m looking to collaborate on Apple related projects.
-- 🤔 I’m looking for help with positive disscusion(s).
-- 💬 Ask me about Anything!
-- 📫 How to reach me: https://github.com/ModestGoblin/Citadel/discussions or on TWTR: [@modestgoblin](https://twitter.com/modestgoblin)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: 🍅🥒🌶🍊🥭🍌 it's ```TRUE;``` could use the sponsorships 🤝
+- 🔭 I’m currently working on expanding implentation of the Apple HomeKit framework. & finishing up painting my Gobbapalooza Warhammer set(Lots of colours, very fun, learning new techniques🎨).
+<table>
+  <body>
+    <tr>
+      <td width="50%" height="150" align="center">
+        <a href="https://github.com/sponsors/ModestGoblin">Become a sponsor 🤝</a> 
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/ModestGoblin/Citadel/discussions">Join the Discussion</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" height="150" align="center">
+        <a href="https://twitter.com/modestgoblin">Twitter</a>
+      </td>
+      <td width="50%" align="center">
+        <a href="">TBA</a>
+      </td>
+      
+      
+  </body>
+ </table>
+  
+ 🍅🥒🌶🍊🥭🍌 
 
 
 
